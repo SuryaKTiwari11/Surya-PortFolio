@@ -1,0 +1,44 @@
+body {
+  font-family: Arial;
+  text-align: center;
+  background: #4E6A54;
+  height: 100%;
+
+}
+#dealer-cards img {
+  height: 175px;
+  width: 125px;
+  margin: 1px;
+}
+#your-cards img {
+  height: 175px;
+  width: 125px;
+  margin: 1px;
+}
+.class{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+button{
+    height: 50px;
+    width: 100px;
+    font-size:20px;
+}
+.transaction{
+  position: absolute;
+  top:30%;
+  left:5%;
+  
+}
+#balance,#amount{
+  margin: 1px;
+  font-size: 60px;
+ 
+}
+#input{
+  height: 50px;
+  width: 250px;
+  font-size: x-large;
+  text-align: center;
+}

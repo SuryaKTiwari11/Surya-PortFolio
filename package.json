@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "eslint": "^9.7.0",
+    "eslint-plugin-react-refresh": "^0.4.9"
+  }
+}

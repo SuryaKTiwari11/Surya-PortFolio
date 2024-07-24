@@ -1,0 +1,68 @@
+body {
+  background-color: #1b244a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "CursedTimerUlil-Aznm", sans-serif;
+}
+.container {
+  height: 100vh;
+  width: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.scoreboard {
+  height: 8rem;
+  background-color: #080001;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+h1 {
+  color: #eeeeee;
+  font-family: Verdana;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 35px;
+  text-align: center;
+}
+h2 {
+  font-weight: 400;
+  text-align: center;
+  vertical-align: center;
+  margin-bottom: 55px;
+  margin-right: 14px;
+}
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+h2 {
+  font-size: 90px;
+  font-weight: 400;
+  line-height: 126.67px;
+  text-align: center;
+  color: #f94f6d;
+}
+button {
+  font-family: "CursedTimerUlil-Aznm", sans-serif;
+  width: 2.5rem;
+  height: 2.5rem;
+  margin-top: 35px;
+  border-radius: 5px 0px 0px 0px;
+  opacity: 0px;
+  border-radius: 5px;
+  border: 2px solid #9aabd8;
+  background-color: #1b244a;
+  color: #9aabd8;
+}
+
+@font-face {
+  font-family: "CursedTimerUlil-Aznm";
+  src: url("fonts/CursedTimerUlil-Aznm.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}

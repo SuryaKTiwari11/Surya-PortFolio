@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+  background-color: aliceblue;
+}
+my-canvas {
+  background-color: aliceblue;
+  margin-left: 10px;
+  margin-top: 10px;
+}
